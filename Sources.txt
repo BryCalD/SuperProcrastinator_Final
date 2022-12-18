@@ -1,0 +1,5 @@
+Sources
+
+-Create with code:                (side scrolling & movement)    https://learn.unity.com/course/create-with-code
+-youtube (snips of code) :    (help with menu)                     https://www.youtube.com/watch?v=zc8ac_qUXQY&t=590s
+		          (help with score system)          https://www.youtube.com/watch?v=9HvTwtfBaYM
